@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html>
+
+<html lang="sv">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ORBITAL - Raketstudio</title>
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      min-height: 100vh;
+
+      background: #080d18;
+
+      color: white;
+
+      font-family: Arial, sans-serif;
+
+      display: grid;
+
+      place-items: center;
+
+      text-align: center;
+
+    }
+
+    main {
+
+      padding: 30px;
+
+    }
+
+    h1 {
+
+      color: #65c8ff;
+
+      font-size: 42px;
+
+      letter-spacing: 5px;
+
+    }
+
+    .rocket {
+
+      font-size: 100px;
+
+      margin: 30px;
+
+    }
+
+    p {
+
+      color: #b8c7d9;
+
+      font-size: 18px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <main>
+
+    <h1>ORBITAL</h1>
+
+    <div class="rocket">🚀</div>
+
+    <h2>Välkommen till Raketstudio</h2>
+
+    <p>Din resa mot rymden börjar här.</p>
+
+  </main>
+
+</body>
+
+</html>
